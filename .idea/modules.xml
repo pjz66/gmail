@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/gitt/gitt.iml" filepath="$PROJECT_DIR$/gitt/gitt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/gmail.iml" filepath="$PROJECT_DIR$/.idea/gmail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmail-api/gmail-api.iml" filepath="$PROJECT_DIR$/gmail-api/gmail-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmail-common-util/gmail-common-util.iml" filepath="$PROJECT_DIR$/gmail-common-util/gmail-common-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmail-manage-service/gmail-manage-service.iml" filepath="$PROJECT_DIR$/gmail-manage-service/gmail-manage-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmail-manage-web/gmail-manage-web.iml" filepath="$PROJECT_DIR$/gmail-manage-web/gmail-manage-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmail-parent/gmail-parent.iml" filepath="$PROJECT_DIR$/gmail-parent/gmail-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmail-service-util/gmail-service-util.iml" filepath="$PROJECT_DIR$/gmail-service-util/gmail-service-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmail-user-service/gmail-user-service.iml" filepath="$PROJECT_DIR$/gmail-user-service/gmail-user-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmail-user-web/gmail-user-web.iml" filepath="$PROJECT_DIR$/gmail-user-web/gmail-user-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmail-web-util/gmail-web-util.iml" filepath="$PROJECT_DIR$/gmail-web-util/gmail-web-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall-user/gmall-user.iml" filepath="$PROJECT_DIR$/gmall-user/gmall-user.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="gitt" />
+        <module name="gmail-api" />
+        <module name="gmail-common-util" />
+        <module name="gmail-manage-service" />
+        <module name="gmail-manage-web" />
+        <module name="gmail-service-util" />
+        <module name="gmail-user-service" />
+        <module name="gmail-user-web" />
+        <module name="gmail-web-util" />
+        <module name="gmall-user" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="gitt" target="1.8" />
+      <module name="gmail-api" target="1.8" />
+      <module name="gmail-common-util" target="1.8" />
+      <module name="gmail-manage-service" target="1.8" />
+      <module name="gmail-manage-web" target="1.8" />
+      <module name="gmail-parent" target="1.8" />
+      <module name="gmail-service-util" target="1.8" />
+      <module name="gmail-user" target="1.8" />
+      <module name="gmail-user-service" target="1.8" />
+      <module name="gmail-user-web" target="1.8" />
+      <module name="gmail-web-util" target="1.8" />
+      <module name="gmall-user" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="gitt" options="-parameters" />
+      <module name="gmail-manage-service" options="" />
+      <module name="gmail-manage-web" options="" />
+      <module name="gmail-user" options="-parameters" />
+      <module name="gmail-user-service" options="" />
+      <module name="gmail-user-web" options="" />
+      <module name="gmall-user" options="" />
+    </option>
+  </component>
+</project>
